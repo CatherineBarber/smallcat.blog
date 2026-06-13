@@ -1,0 +1,3 @@
+baseURL = 'https://catherinebarber.github.io/smallcat.blog/'
+locale = 'en-gb'
+title = 'A Blog or something'
