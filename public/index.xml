@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>A small blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on A small blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jun 2026 19:45:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why start this site</title>
+      <link>http://localhost:1313/posts/why/</link>
+      <pubDate>Mon, 15 Jun 2026 19:45:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/why/</guid>
+      <description>&lt;h2 id=&#34;where-else-can-i-go&#34;&gt;Where else can I go?&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve always found the wider social media landscape a bit intimidating. I was too young for MSN, never warmed up to facebook, snapchat, insta or whatever came after. I liked  youtube, reddit, and discord, where I could enguage in hobby communities without wondering if my family would stumble across a comment I&amp;rsquo;d written. I never considered myself a heavy social media user.&lt;/p&gt;
+&lt;p&gt;And yet as we come to the halfway point of 2026, the UK faces wide sweeping changes to the social media world. A flat ban for under 16 year olds and, consequently, a requirement to &lt;em&gt;prove&lt;/em&gt; that you&amp;rsquo;re over 16. Given I am not prepared to dish out my government ID to any backwater data broker on the net, I will be using a VPN for as long as that remains an option, and dipping out entirely otherwise. It made me think about how such an important commodity has come to rest in the hands of some of the greediest, most irresponsible people in our society. Big Tech holds the keys to so much of our lives, and our governments have done a historically shit job of protecting us from the greed and irresponsibility of these corporate giants.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/posts/hellossworld/</link>
+      <pubDate>Mon, 15 Jun 2026 19:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/hellossworld/</guid>
+      <description>&lt;p&gt;Forgive the boring title, but that&amp;rsquo;s exactly what this is. I have the theme up and running and the posts are working as well.
+Things still to do, questions still to answer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How do I add those side buttons for archive and tags?
+&lt;ul&gt;
+&lt;li&gt;Config entry, done&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;How flexible are hugo themes?
+&lt;ul&gt;
+&lt;li&gt;A little bit, just need to learn how handle bars work&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Would I be better just writing a static site from scratch?
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Do I lose my posts in the process?&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;What about Tags? How do they work?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m going to add some important pages tonight, the things I started this site for, like &amp;ldquo;Favourite artists&amp;rdquo;. I might also write a post explaiing some of the more personal reasons I have for starting this site, we&amp;rsquo;ll see.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inspirations</title>
+      <link>http://localhost:1313/inspirations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/inspirations/</guid>
+      <description>&lt;p&gt;This page is too plain and grey to do these people justice, but to start with I wanted to put together a list of artists I find that have inspired me. Once this page is prettoer, it&amp;rsquo;ll feel more appropriate.&lt;/p&gt;
+&lt;h3 id=&#34;alfred-valley&#34;&gt;Alfred Valley&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hausofvalley.com/&#34;&gt;Hause of Valley&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://alfredvalley.itch.io/&#34;&gt;itch.io&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.youtube.com/@alfredvalley&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;gus-br&#34;&gt;Gus BR&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://chalicesofthepast.bandcamp.com/&#34;&gt;Bandcamp&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;johan-nohr&#34;&gt;Johan Nohr&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://nohr.se/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;snow&#34;&gt;Snow&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.patreon.com/cw/snowttrpg&#34;&gt;Patreon&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://snowttrpg.itch.io/lilancholy&#34;&gt;itch.io&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

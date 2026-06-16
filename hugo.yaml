@@ -1,0 +1,58 @@
+baseURL: "https://catherinebarber.github.io"
+title: A small blog
+paginate: 5
+theme: PaperMod
+
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: Haha, how did you even find this site?? 
+    Content: Well, come on in anyway
+    majorButtons:
+        - name: About
+          url: about/
+        - name: Inspirations
+          url: inspirations/
+        - name: Search
+          url: search/
+        - name: Tags
+          url: tags/
+
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+  socialIcons: # optional
+    - name: "Bluesky"
+      url: "https://bsky.app/profile/smallcat.dev"
+    - name: "GitHub"
+      url: "https://github.com/CatherineBarber/smallcat.blog"
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: About
+          url: about
+          weight: 1
+        - name: Archive
+          url: archives
+          weight: 2
+        - name: Search
+          url: search/
+          weight: 2
+        - name: Tags
+          url: tags/
+          weight: 4
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
