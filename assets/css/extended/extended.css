@@ -53,6 +53,16 @@
   font-family: "IM Fell English", serif;
 }
 
+.artist-card {
+    position: relative;
+    margin-bottom: var(--gap);
+    padding: var(--gap);
+    background: var(--entry);
+    border-radius: var(--radius);
+    transition: transform 0.25s ease;
+    border: 1px solid var(--border);
+}
+
 .home-header{
   font-family: "Jacquard 12", serif;
   font-size: 36px;
@@ -74,6 +84,10 @@
 }
 
 .social-icons a{
+  color: var(--teal-700);
+}
+
+.social-icons a[data-theme="dark"]{
   color: var(--teal-400);
 }
 

@@ -30,7 +30,7 @@
     --teal-700: #1e9da3ff;
 
     --theme: var(--neutrals-100);
-    --entry: var(--neutrals-100);
+    --entry: var(--neutrals-200);
     --primary: var(--neutrals-800);
     --secondary: var(--neutrals-800);
     --tertiary: var(--dark-teal);
@@ -44,7 +44,7 @@
 :root[data-theme="dark"] {
     --theme: var(--dark-900);
     --entry: var(--dark-700);
-    --primary: var(--neutrals-100);
+    --primary: var(--neutrals-200);
     --secondary: var(--neutrals-200);
     --tertiary: var(--midnight-violet);
     --content: var(--neutrals-200);
