@@ -87,3 +87,6 @@
   color: var(--tertiary);
 }
 
+.bot-padding {
+  padding-bottom: 24px;
+}
