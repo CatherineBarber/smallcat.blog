@@ -31,6 +31,7 @@
 
 .pixel-img {
   image-rendering: pixelated;
+  padding-bottom: 24px;
 }
 
 .header-nav {
@@ -84,7 +85,11 @@
 }
 
 .social-icons a{
-  color: var(--tertiary);
+  color: var(--link);
+}
+
+.social-icons a:hover{
+  color: var(--link-hover);
 }
 
 .bot-padding {

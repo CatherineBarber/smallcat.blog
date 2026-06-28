@@ -29,8 +29,8 @@
     --lavender-700: #4e435bff;
 
     --blue-200: #99D6EBff;
-    --blue-300: #29A3CCff;
-    --blue-500: #33AED7ff;
+    --blue-300: #33AED7ff;
+    --blue-500: #29A3CCff;
     --blue-700: #114355ff;
     --blue-800: #26393Eff;
     --blue-900: #192326ff;
@@ -44,6 +44,8 @@
     --code-block-bg: var(--gray-900);
     --code-bg: var(--gray-300);
     --border: var(--gray-300);
+    --link: var(--blue-500);
+    --link-hover: var(--blue-300);
     color-scheme: light;
 }
 
@@ -57,6 +59,8 @@
     --code-block-bg: var(--gray-900);
     --code-bg: var(--gray-700);
     --border: var(--gray-900);
+    --link: var(--blue-500);
+    --link-hover: var(--blue-300);
     color-scheme: dark;
 }
 
